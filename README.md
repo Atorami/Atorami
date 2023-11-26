@@ -26,6 +26,7 @@ Project 3
 ### 📫 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/anton-martsinkevich/)
+[![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonmartsinkevich@gmail.com)
 
 ###🚧 Under Construction:
 This README is a work in progress as I continue to evolve in my coding journey. Stay tuned for more updates!
