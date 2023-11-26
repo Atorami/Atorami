@@ -10,11 +10,11 @@
 - 🐍 Python
 - 🌐 JavaScript (Node.js, Express.js)
 - 🛢️ Databases: 
-  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=20)
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=20)
+  - ![MySQL](https://img.shields.io/badge/MySQL-green?style=for-the-badge)
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
 - 💻 Backend: 
-  - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&logoWidth=20)
-  - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&logoWidth=20)
+  - ![PHP](https://img.shields.io/badge/PHP-green?style=for-the-badge)
+  - ![Laravel](https://img.shields.io/badge/Laravel-green?style=for-the-badge)
 
 ### 🔭 Goals:
 * 🚀 Striving to become a proficient programmer.
