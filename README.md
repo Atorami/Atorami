@@ -1,18 +1,32 @@
-### Hi there 👋
 
-![https://www.codewars.com/users/Atorami](https://www.codewars.com/users/Atorami/badges/large)
+👋 Hello World! I'm Anton, a junior Python and JavaScript enthusiast currently honing my programming skills at WSB Merito University.
 
-<!--
-**Atorami/Atorami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me:
+🎓 Studying at WSB Merito University.
+💻 Passionate about coding, especially in Python and JavaScript.
+🌱 Constantly learning and exploring new technologies.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack:
+🐍 Python
+🌐 JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Goals:
+🚀 Striving to become a proficient programmer.
+🌟 Aspiring to contribute innovative solutions to real-world challenges.
+
+📚 Current Focus:
+Strengthening my foundations in Python and JavaScript.
+Embracing a problem-solving mindset.
+
+👨‍💻 Projects:
+Project 1
+Project 2
+Project 3
+
+📫 Connect with Me:
+
+LinkedIn
+[LinkedIn][(https://www.linkedin.com/anton-martsinkevich/)]
+
+🚧 Under Construction:
+This README is a work in progress as I continue to evolve in my coding journey. Stay tuned for more updates!
