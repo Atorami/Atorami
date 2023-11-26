@@ -16,6 +16,9 @@
 * 🚀 Striving to become a proficient programmer.
 * 🌟 Aspiring to contribute innovative solutions to real-world challenges.
 
+### 🥇 My achievements:
+[![Codewars](https://www.codewars.com/users/Atorami/badges/small)](https://www.codewars.com/users/Atorami)
+
 ### 📚 Current Focus:
 * Strengthening my foundations in Python and JavaScript.
 * Embracing a problem-solving mindset.
