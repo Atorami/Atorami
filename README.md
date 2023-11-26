@@ -25,7 +25,7 @@ Project 3
 
 ### 📫 Connect with Me:
 
-* ![LinkedIn][(https://www.linkedin.com/anton-martsinkevich/)]
+ ![LinkedIn](https://www.linkedin.com/anton-martsinkevich/)
 
 ###🚧 Under Construction:
 This README is a work in progress as I continue to evolve in my coding journey. Stay tuned for more updates!
