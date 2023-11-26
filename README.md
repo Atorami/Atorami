@@ -8,13 +8,16 @@
 
 ### 🛠️ Tech Stack:
 - 🐍 Python
-- 🌐 JavaScript (Node.js, Express.js)
+- 📜 JavaScript
 - 🛢️ Databases: 
-  - ![MySQL](https://img.shields.io/badge/MySQL-green?style=for-the-badge)
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
+  - 📄 MySQL
+  - 📄 MongoDB
+- 💻 Frontend:
+  - <img width="10" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
 - 💻 Backend: 
-  - ![PHP](https://img.shields.io/badge/PHP-green?style=for-the-badge)
-  - ![Laravel](https://img.shields.io/badge/Laravel-green?style=for-the-badge)
+  - 🐘 PHP
+  - 🐘 Laravel
+  - 📜 Express.js
 
 ### 🔭 Goals:
 * 🚀 Striving to become a proficient programmer.
