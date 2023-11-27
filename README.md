@@ -1,5 +1,5 @@
 
-## 👋 Hello World! I'm Anton, a junior Python and JavaScript enthusiast currently honing my programming skills at WSB Merito University.
+## 👋 Hello World! I'm Anton, a junior Python and JavaScript enthusiast
 
 ### 🚀 About Me:
   * 🎓 Studying at WSB Merito University.
