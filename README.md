@@ -20,7 +20,7 @@
 [![Codewars](https://www.codewars.com/users/Atorami/badges/small)](https://www.codewars.com/users/Atorami)
 
 ### 📚 Current Focus:
-* Strengthening my foundations in Python and JavaScript.
+* Improving my foundations in Python and JavaScript.
 * Embracing a problem-solving mindset.
 
 ### 📫 Connect with Me:
