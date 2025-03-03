@@ -20,6 +20,7 @@
 
 ### 🥇 My achievements:
 [![Codewars](https://www.codewars.com/users/Atorami/badges/small)](https://www.codewars.com/users/Atorami)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Atorami.png)](https://tryhackme.com/p/Atorami)
 [![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3783187)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3783187)
 ![tryhackme stats](https://raw.githubusercontent.com/atorami/atorami/master/assets/thm_propic.png)
 
