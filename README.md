@@ -20,6 +20,7 @@
 
 ### 🥇 My achievements:
 [![Codewars](https://www.codewars.com/users/Atorami/badges/small)](https://www.codewars.com/users/Atorami)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3783187" style='border:none;'></iframe>
 
 ### 📚 Current Focus:
 * Improving my foundations in Python and JavaScript.
