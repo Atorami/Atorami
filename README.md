@@ -61,25 +61,11 @@ Passionate about cybersecurity and web development, I am actively seeking opport
 
 ---
 
-## **📚 Projects & Experience**
-
-### **Cybersecurity & Networking**
-- **Security Monitoring & SIEM Implementation** – Configured **Elastic Stack** to analyze security logs for threat detection.
-- **Network Enumeration with Nmap** – Performed **vulnerability scanning** and network mapping.
-- **Incident Handling Process** – Simulated real-world security incidents and response strategies.
-
-### **Web Development**
-- **Portfolio Website** *(React.js, Tailwind CSS)* – Designed a responsive personal website showcasing my projects.
-- **Task Management App** *(Django, PostgreSQL, React.js)* – Built a full-stack application for productivity tracking.
-- **Cybersecurity Blog** *(Next.js, Markdown)* – Developed a blog focused on **cybersecurity awareness** and **best practices**.
-
----
-
 ## **📢 Languages**
 
-- 🇬🇧 **English** *(Advanced)*
-- 🇵🇱 **Polish** *(Advanced)*
-- 🇷🇺 **Russian** *(Native)*
+- **English** *(Advanced)*
+- **Polish** *(Advanced)*
+- **Russian** *(Native)*
 
 ---
 
