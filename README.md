@@ -1,95 +1,93 @@
-##  Hello World! I'm Anton, an Aspiring Front-End Developer & Cybersecurity Analyst
+---
 
-###  About Me:
-* Currently studying Computer Science at WSB Merito University, Szczecin, Poland.
-* Passionate about both front-end development and cybersecurity.
-* Continuously learning and exploring new technologies.
-* Seeking my first professional opportunity in the IT field.
+# **Anton Martsinkevich**  
+## **Cybersecurity Enthusiast | Web Developer**
 
-### ️ Technical Skills:
+📍 **Location:** Szczecin, Poland  
+📧 **Email:** [antonmartsinkevich@gmail.com](mailto:antonmartsinkevich@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/anton-martsinkevich](https://www.linkedin.com/in/anton-martsinkevich/)  
 
-**Front-End Development:**
-* <img width="20" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/> JavaScript
-* <img width="20" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/> React
-* <img width="20" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/> Tailwind CSS
-* <img width="20" src="https://user-images.githubusercontent.com/25181517/183425157-ce42f500-cb69-424a-9e99-4d37536d502f.png" alt="HTML" title="HTML"/> HTML
-* <img width="20" src="https://user-images.githubusercontent.com/25181517/183425151-19a87c69-251c-4613-888c-9863c36c9fba.png" alt="CSS" title="CSS"/> CSS
-* <img width="20" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/> Python (for automation)
+---
 
-**Cybersecurity:**
-* <img width="20" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/> Python (for automation)
-* <img width="20" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/> SQL
-* Azure
-* Networking
-* Network Security
-* Network Equipment
-* Elastic
-* Wireshark
-* Nmap
-* Burp Suite
-* TCP/IP, DNS, DHCP
-* Windows, Linux
+## **💡 About Me**
 
-**Tools & Technologies:**
-* Git, Npm, Yarn
+Passionate about cybersecurity and web development, I am actively seeking opportunities in cybersecurity while preparing for the **CompTIA Security+** certification. My background combines hands-on **network security, penetration testing, and digital forensics** with **web development** experience. In my free time, I build small web applications to enhance my programming skills.
 
-###  Education:
+---
 
-* **WSB Merito University, Szczecin, Poland**
-    * Computer Science (2023 - Present)
-* **Belarusian State Academy of Communications, Minsk, Belarus**
-    * Telecommunications (2013 - 2016)
+## **🛠️ Technical Skills**
 
-###  Certifications:
+### **Cybersecurity & Networking**
+- 🔐 **Security:** Network Security, Threat Hunting, Incident Handling, SIEM, Risk Management
+- 🌐 **Networking:** TCP/IP, DNS, DHCP, Firewalls, Network Monitoring
+- 🛠 **Tools:** Wireshark, Nmap, Burp Suite, Elastic, Windows Event Logs
+- 🖥 **Operating Systems:** Windows, Linux (Ubuntu, Kali)
+- ☁ **Cloud & DevOps:** Microsoft Azure, Docker
 
-* Microsoft Certified: Azure Fundamentals (AZ-900)
-* Cisco Certified: Support Technician Cybersecurity (CCST)
-* Google Cybersecurity Certification, Google
-    * Foundations of Cybersecurity
-    * Manage Security Risks
-    * Networks and Network Security
-    * Linux and SQL
-    * Assets, Threats, and Vulnerabilities
-    * Automate Cybersecurity Tasks with Python
-* Information Security Foundations, HTB
-* Linux & Windows Fundamentals
-* Introduction to Windows Command Line
-* Introduction to Bash Scripting
-* Intro to Network Traffic Analysis
-* Introduction to Active Directory
-* Introduction to Web Applications
-* Web Requests
-* SOC Analyst Prerequisites, HTB
-* Penetration Testing Process
-* Network Enumeration with Nmap
-* Intro to Assembly Language
-* SOC Analyst Job Role Path, HTB
-* Incident Handling Process
-* Security Monitoring & SIEM Fundamentals
-* Windows Event Logs & Finding Evil
-* Introduction to Threat Hunting & Hunting With Elastic
-* Cisco Networking Academy, Cisco
-    * Introduction to cybersecurity
-    * Networking Basics
-    * Endpoint Security
+### **Web Development**
+- 💻 **Languages:** Python, JavaScript, SQL, HTML, CSS
+- ⚡ **Frontend:** React.js, Tailwind CSS
+- 🚀 **Backend:** Express.js, Django, Laravel
+- 🔗 **Databases:** MySQL, PostgreSQL, MongoDB
+- 🛠 **Version Control:** Git, GitHub, CI/CD
 
-### ️ Languages:
+---
 
-* Russian (Native)
-* English (Advanced)
-* Polish (Advanced)
+## **🎓 Education**
 
-###  Goals:
+🎓 **WSB Merito University**, Szczecin, Poland  
+*Bachelor’s in Computer Science (2023 - Present)*
 
-* To secure my first role in front-end development or cybersecurity.
-* To continue expanding my skill set and knowledge.
-* To apply my expertise to solve real-world problems.
+🎓 **Belarusian State Academy of Communications**, Minsk, Belarus  
+*Telecommunications (2013 - 2016)*
 
-###  Connect with Me:
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-martsinkevich/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonmartsinkevich@gmail.com)
+## **📜 Certifications**
 
-###  Under Development:
+- 📌 **CompTIA Security+ (In Progress)**
+- 📌 Microsoft Certified: Azure Fundamentals *(AZ-900)*
+- 📌 Cisco Certified: Support Technician Cybersecurity *(CCST)*
+- 📌 Google Cybersecurity Certification
 
-This README is a living document and will be updated as my professional journey progresses. Stay tuned for updates!
+---
+
+## **🏆 Achievements**
+
+- 🏅 [**Codewars Profile**](https://www.codewars.com/users/Atorami)  
+  ![Codewars Badge](https://www.codewars.com/users/Atorami/badges/small)
+- 🏅 [**TryHackMe Profile**](https://tryhackme.com/p/Atorami)  
+  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Atorami.png)
+
+---
+
+## **📚 Projects & Experience**
+
+### **Cybersecurity & Networking**
+- **Security Monitoring & SIEM Implementation** – Configured **Elastic Stack** to analyze security logs for threat detection.
+- **Network Enumeration with Nmap** – Performed **vulnerability scanning** and network mapping.
+- **Incident Handling Process** – Simulated real-world security incidents and response strategies.
+
+### **Web Development**
+- **Portfolio Website** *(React.js, Tailwind CSS)* – Designed a responsive personal website showcasing my projects.
+- **Task Management App** *(Django, PostgreSQL, React.js)* – Built a full-stack application for productivity tracking.
+- **Cybersecurity Blog** *(Next.js, Markdown)* – Developed a blog focused on **cybersecurity awareness** and **best practices**.
+
+---
+
+## **📢 Languages**
+
+- 🇬🇧 **English** *(Advanced)*
+- 🇵🇱 **Polish** *(Advanced)*
+- 🇷🇺 **Russian** *(Native)*
+
+---
+
+## **🚀 What I’m Looking For**
+
+I am eager to launch my cybersecurity career, applying my knowledge in **network security, penetration testing, and security monitoring**. I am also open to opportunities in **web development**, where I continue to build and refine my skills.
+
+If you are looking for a motivated, detail-oriented, and continuously learning professional, feel free to reach out!
+
+---
+
