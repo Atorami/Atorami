@@ -1,35 +1,95 @@
+##  Hello World! I'm Anton, an Aspiring Front-End Developer & Cybersecurity Analyst
 
-## 👋 Hello World! I'm Anton, a junior Python and JavaScript enthusiast
+###  About Me:
+* Currently studying Computer Science at WSB Merito University, Szczecin, Poland.
+* Passionate about both front-end development and cybersecurity.
+* Continuously learning and exploring new technologies.
+* Seeking my first professional opportunity in the IT field.
 
-### 🚀 About Me:
-  * 🎓 Studying at WSB Merito University.
-  * 💻 Passionate about coding, especially in Python and JavaScript.
-  * 🌱 Constantly learning and exploring new technologies.
+### ️ Technical Skills:
 
-### 🛠️ Tech Stack:
-| 💻 Main:| 💻 Databases:| 💻 Frontend:| 💻 Backend:|📚 Learning:|
-|:--------:|:------------:|:-----------:|:----------:|:-----------:|
-| <img width="20" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/> Python| <img width="20" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/> MySQL| <img width="20" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/> React| <img width="20" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/> Laravel | <img width="20" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/> PostgreSQL|
-| <img width="20" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/> JavaScript | <img width="20" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/> MongoDB| <img width="20" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/> Tailwind CSS| <img width="20" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express.js"/> Express.js| <img width="20" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/> Django|
+**Front-End Development:**
+* <img width="20" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/> JavaScript
+* <img width="20" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/> React
+* <img width="20" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/> Tailwind CSS
+* <img width="20" src="https://user-images.githubusercontent.com/25181517/183425157-ce42f500-cb69-424a-9e99-4d37536d502f.png" alt="HTML" title="HTML"/> HTML
+* <img width="20" src="https://user-images.githubusercontent.com/25181517/183425151-19a87c69-251c-4613-888c-9863c36c9fba.png" alt="CSS" title="CSS"/> CSS
+* <img width="20" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/> Python (for automation)
 
-                                                            
+**Cybersecurity:**
+* <img width="20" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/> Python (for automation)
+* <img width="20" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/> SQL
+* Azure
+* Networking
+* Network Security
+* Network Equipment
+* Elastic
+* Wireshark
+* Nmap
+* Burp Suite
+* TCP/IP, DNS, DHCP
+* Windows, Linux
 
-### 🔭 Goals:
-* 🚀 Striving to become a proficient programmer.
-* 🌟 Aspiring to contribute innovative solutions to real-world challenges.
+**Tools & Technologies:**
+* Git, Npm, Yarn
 
-### 🥇 My achievements:
-* [![Codewars](https://www.codewars.com/users/Atorami/badges/small)](https://www.codewars.com/users/Atorami)
-* [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Atorami.png)](https://tryhackme.com/p/Atorami)
+###  Education:
 
-### 📚 Current Focus:
-* Improving my foundations in Python and JavaScript.
-* Embracing a problem-solving mindset.
+* **WSB Merito University, Szczecin, Poland**
+    * Computer Science (2023 - Present)
+* **Belarusian State Academy of Communications, Minsk, Belarus**
+    * Telecommunications (2013 - 2016)
 
-### 📫 Connect with Me:
+###  Certifications:
+
+* Microsoft Certified: Azure Fundamentals (AZ-900)
+* Cisco Certified: Support Technician Cybersecurity (CCST)
+* Google Cybersecurity Certification, Google
+    * Foundations of Cybersecurity
+    * Manage Security Risks
+    * Networks and Network Security
+    * Linux and SQL
+    * Assets, Threats, and Vulnerabilities
+    * Automate Cybersecurity Tasks with Python
+* Information Security Foundations, HTB
+* Linux & Windows Fundamentals
+* Introduction to Windows Command Line
+* Introduction to Bash Scripting
+* Intro to Network Traffic Analysis
+* Introduction to Active Directory
+* Introduction to Web Applications
+* Web Requests
+* SOC Analyst Prerequisites, HTB
+* Penetration Testing Process
+* Network Enumeration with Nmap
+* Intro to Assembly Language
+* SOC Analyst Job Role Path, HTB
+* Incident Handling Process
+* Security Monitoring & SIEM Fundamentals
+* Windows Event Logs & Finding Evil
+* Introduction to Threat Hunting & Hunting With Elastic
+* Cisco Networking Academy, Cisco
+    * Introduction to cybersecurity
+    * Networking Basics
+    * Endpoint Security
+
+### ️ Languages:
+
+* Russian (Native)
+* English (Advanced)
+* Polish (Advanced)
+
+###  Goals:
+
+* To secure my first role in front-end development or cybersecurity.
+* To continue expanding my skill set and knowledge.
+* To apply my expertise to solve real-world problems.
+
+###  Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-martsinkevich/)
-[![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonmartsinkevich@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonmartsinkevich@gmail.com)
 
-### 🚧 Under Construction:
-This README is a work in progress as I continue to evolve in my coding journey. Stay tuned for more updates!
+###  Under Development:
+
+This README is a living document and will be updated as my professional journey progresses. Stay tuned for updates!
