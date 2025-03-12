@@ -20,7 +20,7 @@ Passionate about cybersecurity and web development, I am actively seeking opport
 ### **Cybersecurity & Networking**
 - 🔐 **Security:** Network Security, Threat Hunting, Incident Handling, SIEM, Risk Management
 - 🌐 **Networking:** TCP/IP, DNS, DHCP, Firewalls, Network Monitoring
-- 🛠 **Tools:** Wireshark, Nmap, Burp Suite, Elastic, Windows Event Logs
+- 🛠 **Tools:** Wireshark, Nmap, Burp Suite, Metasploit, Elastic, Windows Event Logs
 - 🖥 **Operating Systems:** Windows, Linux
 - ☁ **Cloud & DevOps:** Microsoft Azure, AWS ( In progress ), Docker ( In Progress )
 
