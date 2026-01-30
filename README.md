@@ -1,87 +1,69 @@
-# **Anton Martsinkevich**  
-## **Junior Penetration Tester | Cybersecurity Enthusiast**
+# 👋 Hi, I'm Anton Martsinkevich 🛡️
+### Junior SOC Analyst | Blue Team Enthusiast | BTL1 & Security+ Certified
 
-📍 **Location:** Szczecin, Poland  
-📧 **Email:** [antonmartsinkevich@gmail.com](mailto:antonmartsinkevich@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/anton-martsinkevich](https://www.linkedin.com/in/anton-martsinkevich/)  
+I am a dedicated **Junior SOC Analyst** transitioning from a background in system administration and network engineering into **Cybersecurity Operations**. I specialize in threat detection, log analysis, and incident response. With my experience in maritime IT systems and full-stack development, I bring a unique "under the hood" understanding of how systems communicate and where they are vulnerable.
 
 ---
 
-## 💡 About Me
+## 🛡️ Professional Focus (Blue Team)
 
-Aspiring **Junior Penetration Tester** with a strong passion for cybersecurity and hands-on experience in **network security, system enumeration, and vulnerability analysis**. I’m actively working toward the **CompTIA Security+** certification and continually building my offensive security skillset through labs and platforms like **TryHackMe** and **Hack The Box**.
+- **SIEM & Monitoring:** Proficient in **Splunk (SPL)**, building dashboards, and triaging alerts.
+- **Incident Response:** Practical experience with the **BTL1** framework, including incident investigation and reporting.
+- **Traffic Analysis:** Deep-diving into PCAP files using **Wireshark**, Zeek, and Brim.
+- **Digital Forensics:** Introductory knowledge of endpoint forensics using **Autopsy** and FTK Imager.
+- **Threat Intelligence:** Mapping adversary behavior using the **MITRE ATT&CK** framework.
 
-I’m comfortable working with various tools and techniques for **reconnaissance, exploitation, and post-exploitation**, and I enjoy exploring security from both attacker and defender perspectives. I also build web apps in my spare time to keep my coding sharp and deepen my understanding of web vulnerabilities.
+---
+
+## 📜 Certifications
+- 🟦 **Blue Team Level 1 (BTL1)** 
+- 🔐 **CompTIA Security+**
+- 🌐 **Cisco Certified: Support Technician (CCST) Cybersecurity**
+- ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- 🎓 **Google Cybersecurity Professional Certificate**
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 🧰 Penetration Testing & Cybersecurity
-- 🔐 **Core Areas:** Penetration Testing, Vulnerability Assessment, Security Monitoring, Incident Handling, Risk Management  
-- 🕵️ **Reconnaissance:** Active/Passive Reconnaissance, OSINT, Service Enumeration  
-- ⚙️ **System Enumeration:** SMB, FTP, HTTP, SSH, SNMP, DNS  
-- 🚪 **Exploitation:** Privilege Escalation (Windows/Linux), CVE Research, Post-Exploitation  
-- 🛠 **Tools:** Wireshark, Nmap, Burp Suite, Metasploit, Nikto, Gobuster, Sploitus, Exploit-DB, SearchSploit  
-- 🖥 **Operating Systems:** Windows, Linux (Kali, Ubuntu), macOS  
-- ☁ **Cloud & DevOps:** Microsoft Azure, AWS *(In Progress)*, Docker *(In Progress)*   
+### 🛡️ Defensive Security & Tools
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white) 
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 💻 Web Development
-- **Languages:** Python, JavaScript, SQL, HTML  
-- **Frontend:** React.js, CSS, Tailwind CSS  
-- **Databases:** MySQL  
-- **Version Control:** Git, GitHub  
+### 💻 Scripting & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📈 Continuous Learning
+
+- 🏆 **TryHackMe:** [My Profile](https://tryhackme.com/p/Atorami) — Focus on SOC Level 1 & Blue Teaming paths.
+- 🎯 **Hack The Box:** Working through the SOC Analyst prerequisites and Sherlocks (investigative labs).
+- 🏗️ **Home Lab:** Managing a virtualized environment for traffic monitoring and malware analysis testing.
 
 ---
 
 ## 🎓 Education
-
-**WSB Merito University**, Szczecin, Poland  
-*Bachelor’s in Computer Science (2023 - Present)*  
-
-**Belarusian State Academy of Communications**, Minsk, Belarus  
-*Telecommunications (2013 - 2016)*  
+- **WSB Merito University, Szczecin** | Bachelor’s in Computer Network Engineering (2023 - Present)
+- **Belarusian State Academy of Communications** | Telecommunications (2013 - 2016)
 
 ---
 
-## 📜 Certifications
-
-- 📌 **CompTIA Security+ (In Progress)**  
-- 📌 Microsoft Certified: Azure Fundamentals *(AZ-900)*  
-- 📌 Cisco Certified: Support Technician Cybersecurity *(CCST)*  
-- 📌 Google Cybersecurity Certification  
+## 🗣️ Languages
+- **English** - B1/B2 (Technical & Professional)
+- **Polish** - B2 (Professional)
+- **Russian** - Native
 
 ---
 
-## 🏆 Achievements
-
-- 🏅 [**Codewars Profile**](https://www.codewars.com/users/Atorami)  
-  ![Codewars Badge](https://www.codewars.com/users/Atorami/badges/small)  
-
-- 🏅 [**TryHackMe Profile**](https://tryhackme.com/p/Atorami)  
-  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Atorami.png)  
+## 📫 Let's Connect:
+- **LinkedIn:** [linkedin.com/in/anton-martsinkevich](https://www.linkedin.com/in/anton-martsinkevich/)
+- **Email:** [antonmartsinkevich@gmail.com](mailto:antonmartsinkevich@gmail.com)
 
 ---
-
-## 📢 Languages
-
-- **English** *(Advanced)*  
-- **Polish** *(Advanced)*  
-- **Russian** *(Native)*  
-
----
-
-## 🚀 What I’m Looking For
-
-I’m actively working toward becoming a **Cybersecurity Engineer**, with a strong focus on **penetration testing** and offensive security. My goal is to deepen my understanding of system vulnerabilities, network security, and exploit development, while building real-world experience through labs and hands-on practice.
-
-With a background in **programming and web development**, I bring a strong technical foundation that enhances my approach to cybersecurity — from writing scripts for automation and recon to understanding how applications can be exploited.
-
-I’m currently sharpening my skills on platforms like **TryHackMe** and **Hack The Box**, where I regularly complete challenges related to enumeration, privilege escalation, and post-exploitation techniques. I’m constantly learning, documenting my progress, and building a mindset focused on curiosity, precision, and ethical responsibility.
-
-I’m looking for opportunities where I can:
-- Contribute to real-world security projects  
-- Grow into a skilled penetration tester and security professional  
-- Collaborate with teams focused on securing modern infrastructure  
-
-Let’s connect if you're looking for a driven and motivated junior with a strong technical base and a passion for ethical hacking!
+*"Security is not a product, but a process." — Bruce Schneier*
