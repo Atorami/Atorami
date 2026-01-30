@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anton Martsinkevich 🛡️
+# 👋 Hi, I'm Anton 🛡️
 ### Junior SOC Analyst | Blue Team Enthusiast | BTL1 & Security+ Certified
 
 I am a dedicated **Junior SOC Analyst** transitioning from a background in system administration and network engineering into **Cybersecurity Operations**. I specialize in threat detection, log analysis, and incident response. With my experience in maritime IT systems and full-stack development, I bring a unique "under the hood" understanding of how systems communicate and where they are vulnerable.
