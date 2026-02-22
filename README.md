@@ -34,6 +34,7 @@ I am a dedicated **Junior SOC Analyst** transitioning from a background in syste
 
 ### 💻 Scripting & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -44,6 +45,8 @@ I am a dedicated **Junior SOC Analyst** transitioning from a background in syste
 
 - 🏆 **TryHackMe:** [My Profile](https://tryhackme.com/p/Atorami) — Focus on SOC Level 1 & Blue Teaming paths.
 - 🎯 **Hack The Box:** Working through the SOC Analyst prerequisites and Sherlocks (investigative labs).
+- 🔎 **Blue Team Labs Online (BTLO):** SOC Level 1 & Blue Team scenarios for realistic incident response practice.
+- 🪛 **picoCTF:** [picoCTF.org](https://picoctf.org/) — CTF challenges for forensics, crypto, and reverse engineering.
 - 🏗️ **Home Lab:** Managing a virtualized environment for traffic monitoring and malware analysis testing.
 
 ---
