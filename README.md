@@ -29,6 +29,7 @@ I am a dedicated **Junior SOC Analyst** transitioning from a background in syste
 ### 🛡️ Defensive Security & Tools
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white) 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMiA0QzcuNDY4IDQgNCA3LjQ2OCA0IDEyUzcuNDY4IDIwIDEyIDIwUzIwIDE2LjUzMiAyMCAxMnMyLjUzMi00IDQtNFoiIGZpbGw9ImN1cnJlbnRDb2xvciIvPjxwYXRoIGQ9Ik0xMCAxMEgxNEwxNCAxMkwxMCAxMFoiIGZpbGw9IndoaXRlIi8+PC9zdmc+)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
