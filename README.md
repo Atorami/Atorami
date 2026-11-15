@@ -1,73 +1,62 @@
-# 👋 Hi, I'm Anton 🛡️
-### Junior SOC Analyst | Blue Team Enthusiast | BTL1 & Security+ Certified
+# Hi, I'm Anton 🛡️
+### OT/ICS Security · AI Security · 10 years in marine & industrial systems
 
-I am a dedicated **Junior SOC Analyst** transitioning from a background in system administration and network engineering into **Cybersecurity Operations**. I specialize in threat detection, log analysis, and incident response. With my experience in maritime IT systems and full-stack development, I bring a unique "under the hood" understanding of how systems communicate and where they are vulnerable.
+I secure the systems I used to install. For ten years I have built and serviced electrical, network and control systems on ships and industrial sites: fiber, switches, PLCs, CCTV, onboard IT. Now I apply that field experience to **operational technology (OT) security** and to **securing AI systems** — where knowing how the equipment actually works matters as much as knowing the attack.
+
+Based in Szczecin, Poland · finishing a B.Eng. in Computer Network Engineering (WSB Merito)
 
 ---
 
-## 🛡️ Professional Focus (Blue Team)
+## 🎯 Current focus
 
-- **SIEM & Monitoring:** Proficient in **Splunk (SPL)**, building dashboards, and triaging alerts.
-- **Incident Response:** Practical experience with the **BTL1** framework, including incident investigation and reporting.
-- **Traffic Analysis:** Deep-diving into PCAP files using **Wireshark**, Zeek, and Brim.
-- **Digital Forensics:** Introductory knowledge of endpoint forensics using **Autopsy** and FTK Imager.
-- **Threat Intelligence:** Mapping adversary behavior using the **MITRE ATT&CK** framework.
+- **OT/ICS security** — industrial protocols (Modbus, OPC UA), network segmentation, detection in control networks, ISA/IEC 62443 and the maritime cyber rules IACS UR E26/E27
+- **AI security** — threat modeling LLM applications against the OWASP Top 10 for LLM Applications, prompt injection testing, safe agent design
+- **Agentic development** — building with AI agents under human review: the agent writes, I verify, test and own the result
+
+---
+
+## 🔬 Projects
+
+| Project | What it shows | Status |
+| --- | --- | --- |
+| [RAG_app](https://github.com/Atorami/RAG_app) | Retrieval-augmented Q&A over technical documentation (Python, LangChain, ChromaDB, FastAPI). Being reworked into a maintenance-manual assistant with tests against indirect prompt injection | 🔄 Rework in progress |
+| LLM bot security case study | A Telegram bot running on GPT-4o-mini in production, with input/output filtering, rate limiting and adversarial tests. Write-up: threat model, attacks that got through, layered fixes | 🔄 Write-up in progress |
+| OT security lab | Home ICS lab (simulated plant with PLC and HMI): baseline traffic, detect unauthorized writes to a PLC, write the detection rule | 🗓️ Planned |
 
 ---
 
 ## 📜 Certifications
-- 🟦 **Blue Team Level 1 (BTL1)** 
+
 - 🔐 **CompTIA Security+**
-- 🌐 **Cisco Certified: Support Technician (CCST) Cybersecurity**
+- 🟦 **Blue Team Level 1 (BTL1)** — Security Blue Team
+- 🌐 **Cisco Certified Support Technician (CCST) Cybersecurity**
 - ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**
 - 🎓 **Google Cybersecurity Professional Certificate**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
-### 🛡️ Defensive Security & Tools
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white) 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMiA0QzcuNDY4IDQgNCA3LjQ2OCA0IDEyUzcuNDY4IDIwIDEyIDIwUzIwIDE2LjUzMiAyMCAxMnMyLjUzMi00IDQtNFoiIGZpbGw9ImN1cnJlbnRDb2xvciIvPjxwYXRoIGQ9Ik0xMCAxMEgxNEwxNCAxMkwxMCAxMFoiIGZpbGw9IndoaXRlIi8+PC9zdmc+)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+**Security:** traffic analysis (Wireshark, Zeek), IDS (Snort/Suricata), SIEM (Splunk), log analysis, incident handling, MITRE ATT&CK, Nmap
 
-### 💻 Scripting & Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+**Industrial & networks:** PLC basics, industrial networks, switches/routers/APs, fiber (OTDR), electrical measurements, CCTV, onboard ship IT
 
----
+**Code:** Python, Bash, PowerShell, JavaScript, SQL · Linux & Windows administration
 
-## 📈 Continuous Learning
-
-- 🏆 **TryHackMe:** [My Profile](https://tryhackme.com/p/Atorami) — Focus on SOC Level 1 & Blue Teaming paths.
-- 🎯 **Hack The Box:** Working through the SOC Analyst prerequisites and Sherlocks (investigative labs).
-- 🔎 **Blue Team Labs Online (BTLO):** SOC Level 1 & Blue Team scenarios for realistic incident response practice.
-- 🪛 **picoCTF:** [picoCTF.org](https://picoctf.org/) — CTF challenges for forensics, crypto, and reverse engineering.
-- 🏗️ **Home Lab:** Managing a virtualized environment for traffic monitoring and malware analysis testing.
-
----
-
-## 🎓 Education
-- **WSB Merito University, Szczecin** | Bachelor’s in Computer Network Engineering (2023 - Present)
-- **Belarusian State Academy of Communications** | Telecommunications (2013 - 2016)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
 ## 🗣️ Languages
-- **English** - B1/B2 (Technical & Professional)
-- **Polish** - B2 (Professional)
-- **Russian** - Native
+
+Russian (native) · Polish (B2) · English (B1, working toward B2)
 
 ---
 
-## 📫 Let's Connect:
-- **LinkedIn:** [linkedin.com/in/anton-martsinkevich](https://www.linkedin.com/in/anton-martsinkevich/)
-- **Email:** [antonmartsinkevich@gmail.com](mailto:antonmartsinkevich@gmail.com)
+## 📫 Contact
 
----
-*"Security is not a product, but a process." — Bruce Schneier*
+[LinkedIn](https://www.linkedin.com/in/anton-martsinkevich/) · [antonmartsinkevich@gmail.com](mailto:antonmartsinkevich@gmail.com)
